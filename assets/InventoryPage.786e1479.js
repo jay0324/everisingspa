@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.1fdcc1b0.js";import{_ as t}from"./plugin-vue_export-helper.21dcd24c.js";import{d as a,f as r,j as o,n}from"./index.4a417284.js";import"./render.2ce582b0.js";const s={name:"InventoryPage"};function c(p,f,_,d,i,m){return a(),r(e,{padding:""},{default:o(()=>[n(" Inventory Page ")]),_:1})}var v=t(s,[["render",c]]);export{v as default};
