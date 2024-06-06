@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.00ae68c0.js";import{_ as t}from"./plugin-vue_export-helper.21dcd24c.js";import{d as a,f as r,j as o,n as c}from"./index.c055f294.js";import"./render.f1930b0f.js";const s={name:"ProductPage"};function d(n,p,f,_,i,m){return a(),r(e,{padding:""},{default:o(()=>[c(" Products Page ")]),_:1})}var l=t(s,[["render",d]]);export{l as default};
