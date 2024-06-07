@@ -1,0 +1,1 @@
+import{Q as r}from"./QPage.5ce40d48.js";import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{d as t,f as a,j as o,n as s}from"./index.95f942cd.js";import"./render.57b54ea1.js";const c={name:"OrderHistoryPage"};function d(i,n,p,f,_,m){return t(),a(r,{padding:""},{default:o(()=>[s(" Order History ")]),_:1})}var $=e(c,[["render",d]]);export{$ as default};

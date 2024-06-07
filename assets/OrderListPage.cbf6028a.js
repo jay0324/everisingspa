@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.5ce40d48.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";import{d as t,f as a,j as o,n as s}from"./index.95f942cd.js";import"./render.57b54ea1.js";const c={name:"OrderListPage"};function d(i,n,p,f,_,m){return t(),a(e,{padding:""},{default:o(()=>[s(" order List ")]),_:1})}var $=r(c,[["render",d]]);export{$ as default};
