@@ -1,0 +1,1 @@
+import{Q as r}from"./QPage.de30e8fe.js";import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{t as o,u as a}from"./index.eaf4b607.js";const t={};function s(c,p,n,_,f,d){return o(),a(r,{padding:""})}var $=e(t,[["render",s]]);export{$ as default};
